@@ -1,2 +1,2 @@
-# vue_js_todos
+# vue js todos
 Simple Todo app using vue js for Learning vuex
